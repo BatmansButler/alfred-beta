@@ -1,21 +1,25 @@
 {
   "name": "skeleton",
   "version": "2.0.4",
-  "homepage": "http://getskeleton.com/",
+  "homepage": "http://alfred.estate/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhg/Skeleton"
+    "url": "https://github.com/BatmansButler/alfred-beta"
   },
   "authors": [
-    "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
+    "Seth Goldfarb <goldfarbas@gmail.com> (http://sethgoldfarbthewriter.com/)"
   ],
-  "description": "Skeleton is a dead-simple, responsive boilerplate to kickstart any responsive project.",
+  "description": "Alfred is the award-winning crypto estate planner",
   "main": "css/skeleton.css",
   "keywords": [
-    "css",
-    "skeleton",
-    "responsive",
-    "boilerplate"
+    "cryptocurrency",
+    "blockchain",
+    "crypto",
+    "estate",
+    "planner",
+    "inheritance",
+    "probate",
+    "decentralized"
   ],
   "license": "MIT"
 }
