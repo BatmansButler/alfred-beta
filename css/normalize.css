@@ -20,6 +20,25 @@ body {
   margin: 0;
 }
 
+.menu {
+  position: relative;
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.menu-table {
+  padding: 10px 10px;
+  width: 100%;
+  margin: 0;
+}
+
+.menu-highlight {
+  color: rgb(255, 255, 255) !important;
+  opacity: 1 !important;
+  font-weight: 700 !important;
+}
+
+
 /* HTML5 display definitions
    ========================================================================== */
 
